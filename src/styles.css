@@ -117,6 +117,9 @@
 .img {
   vertical-align: middle;
 }
+.d-none {
+  display: none;
+}
 
 @media (max-width: 576px) {
   .col-md-6 {
