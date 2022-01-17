@@ -119,9 +119,6 @@
 }
 
 @media (max-width: 576px) {
-  .img-fluid {
-    display: none;
-  }
   .col-md-6 {
     text-align: center;
     width: auto;
