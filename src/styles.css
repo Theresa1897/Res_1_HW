@@ -118,6 +118,15 @@
   vertical-align: middle;
 }
 
+@media (max-width: 576px) {
+  body {
+    text-align: center;
+  }
+  .img {
+    display: none;
+  }
+}
+
 h1 {
   color: var(--primary-color);
   font-size: 90px;
