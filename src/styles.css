@@ -119,9 +119,6 @@
 }
 
 @media (max-width: 576px) {
-  p {
-    text-align: center;
-  }
   .img-fluid {
     display: none;
   }
