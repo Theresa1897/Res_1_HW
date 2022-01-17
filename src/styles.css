@@ -118,11 +118,11 @@
   vertical-align: middle;
 }
 
-@media (min-width: 576px) {
-  body {
+@media (max-width: 576px) {
+  p {
     text-align: center;
   }
-  .img {
+  .col-md-6 {
     display: none;
   }
 }
